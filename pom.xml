@@ -9,7 +9,8 @@
 <properties>
     <allure.version>2.24.0</allure.version>
      <aspectj.version>1.9.7</aspectj.version> <!-- Add this line with the desired version -->
-    
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
 </properties>
 
  <dependencies>
