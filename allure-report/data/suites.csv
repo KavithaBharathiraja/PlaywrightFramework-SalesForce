@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4817","testLogin","Suite","Mon Jul 29 19:25:14 PDT 2024","passed","Mon Jul 29 19:25:19 PDT 2024","tests.LoginTest","FireFox","tests.LoginTest","testLogin"
+"","6765","testLogin","Suite","Mon Jul 29 19:25:06 PDT 2024","passed","Mon Jul 29 19:25:12 PDT 2024","tests.LoginTest","Chrome","tests.LoginTest","testLogin"
+"","7651","testLogin","Suite","Mon Jul 29 19:24:54 PDT 2024","passed","Mon Jul 29 19:25:01 PDT 2024","tests.LoginTest","Webkit","tests.LoginTest","testLogin"
+"","6039","testLogin","Surefire suite","Mon Jul 29 20:55:32 PDT 2024","passed","Mon Jul 29 20:55:38 PDT 2024","tests.LoginTest","Surefire test","tests.LoginTest","testLogin"
